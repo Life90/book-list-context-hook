@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/book-list-context-hook/static/css/main.21c7d1f3.css",
+    "main.js": "/book-list-context-hook/static/js/main.c24a2926.js",
+    "static/js/787.5584a1fb.chunk.js": "/book-list-context-hook/static/js/787.5584a1fb.chunk.js",
+    "index.html": "/book-list-context-hook/index.html",
+    "main.21c7d1f3.css.map": "/book-list-context-hook/static/css/main.21c7d1f3.css.map",
+    "main.c24a2926.js.map": "/book-list-context-hook/static/js/main.c24a2926.js.map",
+    "787.5584a1fb.chunk.js.map": "/book-list-context-hook/static/js/787.5584a1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c7d1f3.css",
+    "static/js/main.c24a2926.js"
+  ]
+}
